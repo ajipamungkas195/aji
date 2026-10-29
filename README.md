@@ -13,7 +13,7 @@
 | 4 | 10-09-2026 | 4 | Modul 4 — Widget Flexible dan Expanded | — | [Program](https://github.com/ajipamungkas195/Modul-4-Mobile-Programming-Praktikum) |
 | 5 | 17-09-2026 | 5 | Modul 5 — Latihan widget dan layout | — | [Program](https://github.com/ajipamungkas195/Modul-5-Mobile-Programming-Praktikum) |
 | 6 | 17-09-2026 | 6 | Modul 6 — GridView dan ListView | — | [Program](https://github.com/ajipamungkas195/Modul-6-Mobile-Programming-Praktikum) |
-|  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07](-) | [Program](-) |
+| 7 | 24-09-2026 | 7 | Modul 7 — Navigasi antarlayar (MaterialPageRoute) | — | [Program](https://github.com/ajipamungkas195/Modul-7-Mobile-Programming-Praktikum) |
 |  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](-) | [Program](-) |
 |  9 | 01-10-2025  | 05  | StatefulWidget  | [Modul 09](-) | [Program](-) |
 |  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/18UACBtKGH2mjYdhAS8quhdtt-e48iR-A/view?usp=drive_link "Modul 10") | [Program](https://github.com/dwiandina08-oss/tasbih_getx "Template laporan") |
