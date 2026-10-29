@@ -18,7 +18,4 @@
 | 9 | 01-10-2026 | 9 | Modul 9 — StatefulWidget dan pengelolaan state | — | [Program](https://github.com/ajipamungkas195/Modul-8-11-Mobile-Programming-Praktikum/tree/main/lib/modul_9) |
 | 10 | 08-10-2026 | 10 | Modul 10 — Desain GUI dan pengolahan data game | [Laporan](https://github.com/ajipamungkas195/Modul-8-11-Mobile-Programming-Praktikum/blob/main/laporan/Laporan_Modul_10.pdf) | [Program](https://github.com/ajipamungkas195/Modul-8-11-Mobile-Programming-Praktikum/tree/main/lib/modul_10) |
 | 11 | 15-10-2026 | 11 | Manajemen State dengan GetX | [Laporan](https://github.com/ajipamungkas195/Modul-8-11-Mobile-Programming-Praktikum/blob/main/laporan/Laporan_Modul_11.pdf) | [Program](https://github.com/ajipamungkas195/Modul-8-11-Mobile-Programming-Praktikum/tree/main/lib/modul_11) |
-|  11 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [Modul 11](https://drive.google.com/file/u/1/d/1mmKpGY-AN3vzDCarMtxr2o_4jLoN6b8O/view?usp=drivesdk "UTS") | [Program](https://github.com/dwiandina08-oss/wisata_app "Template laporan") |
-|  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](- ) | [Program](-) |
-|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](-) | [Program](-) |
-|  14 | 11-12-2025  | 11  | Ujian Akhir Semester  | [Modul 13](-) | [Program](-) |
+| 12 | 25-10-2026 | UTS | Ujian Tengah Semester — KosCash (Aplikasi Pencatatan Keuangan & Budgeting) | [Laporan](https://github.com/ajipamungkas195/UTS-Mobile-Programming/blob/main/laporan/UTS.docx) | [Program](https://github.com/ajipamungkas195/UTS-Mobile-Programming) |
