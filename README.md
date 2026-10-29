@@ -11,7 +11,7 @@
 | 2 | 03-09-2026 | 2 | Modul 2 — Widget Row dan Column | — | [Program](https://github.com/ajipamungkas195/Modul-2-Mobile-Programming-Praktikum) |
 | 3 | 10-09-2026 | 3 | Modul 3 — Pengaturan layout Row dan Column | — | [Program](https://github.com/ajipamungkas195/Modul-3-Mobile-Programming-Praktikum) |
 | 4 | 10-09-2026 | 4 | Modul 4 — Widget Flexible dan Expanded | — | [Program](https://github.com/ajipamungkas195/Modul-4-Mobile-Programming-Praktikum) |
-|  5 | 17-09-2025  | 03  | Widget Flexible dan Expanded  | [Modul 05](-) | [Program](-) |
+| 5 | 17-09-2026 | 5 | Modul 5 — Latihan widget dan layout | — | [Program](https://github.com/ajipamungkas195/Modul-5-Mobile-Programming-Praktikum) |
 |  6 | 17-09-2025  | 03  | Widget Flexible dan Expanded  | [Modul 06](-) | [Program](-) |
 |  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07](-) | [Program](-) |
 |  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](-) | [Program](-) |
