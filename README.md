@@ -9,7 +9,7 @@
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
 | 1 | 03-09-2026 | 1 | Modul 1 — Pengenalan Mobile Programming dan setup lingkungan | — | [Program](https://github.com/ajipamungkas195/Modul-1-Mobile-Programming-Praktikum) |
 | 2 | 03-09-2026 | 2 | Modul 2 — Widget Row dan Column | — | [Program](https://github.com/ajipamungkas195/Modul-2-Mobile-Programming-Praktikum) |
-|  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03]() | [Program](-) |
+| 3 | 10-09-2026 | 3 | Modul 3 — Pengaturan layout Row dan Column | — | [Program](https://github.com/ajipamungkas195/Modul-3-Mobile-Programming-Praktikum) |
 |  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](-) | [Program](-) |
 |  5 | 17-09-2025  | 03  | Widget Flexible dan Expanded  | [Modul 05](-) | [Program](-) |
 |  6 | 17-09-2025  | 03  | Widget Flexible dan Expanded  | [Modul 06](-) | [Program](-) |
