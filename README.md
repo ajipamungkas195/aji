@@ -14,10 +14,10 @@
 | 5 | 17-09-2026 | 5 | Modul 5 — Latihan widget dan layout | — | [Program](https://github.com/ajipamungkas195/Modul-5-Mobile-Programming-Praktikum) |
 | 6 | 17-09-2026 | 6 | Modul 6 — GridView dan ListView | — | [Program](https://github.com/ajipamungkas195/Modul-6-Mobile-Programming-Praktikum) |
 | 7 | 24-09-2026 | 7 | Modul 7 — Navigasi antarlayar (MaterialPageRoute) | — | [Program](https://github.com/ajipamungkas195/Modul-7-Mobile-Programming-Praktikum) |
-|  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](-) | [Program](-) |
-|  9 | 01-10-2025  | 05  | StatefulWidget  | [Modul 09](-) | [Program](-) |
-|  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/18UACBtKGH2mjYdhAS8quhdtt-e48iR-A/view?usp=drive_link "Modul 10") | [Program](https://github.com/dwiandina08-oss/tasbih_getx "Template laporan") |
-|  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/13S7t0sW6-VwO26PuqHLjP1V8PbGZ8lrR/view?usp=drive_link "Modul 11") | [Program](https://github.com/dwiandina08-oss/tasbih_getx "Template laporan") |
+| 8 | 24-09-2026 | 8 | Modul 8 — Navigasi menggunakan Named Route | — | [Program](https://github.com/ajipamungkas195/Modul-8-11-Mobile-Programming-Praktikum/tree/main/lib/modul_8) |
+| 9 | 01-10-2026 | 9 | Modul 9 — StatefulWidget dan pengelolaan state | — | [Program](https://github.com/ajipamungkas195/Modul-8-11-Mobile-Programming-Praktikum/tree/main/lib/modul_9) |
+| 10 | 08-10-2026 | 10 | Modul 10 — Desain GUI dan pengolahan data game | — | [Program](https://github.com/ajipamungkas195/Modul-8-11-Mobile-Programming-Praktikum/tree/main/lib/modul_10) |
+| 11 | 15-10-2026 | 11 | Manajemen State dengan GetX | — | [Program](https://github.com/ajipamungkas195/Modul-8-11-Mobile-Programming-Praktikum/tree/main/lib/modul_11) |
 |  11 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [Modul 11](https://drive.google.com/file/u/1/d/1mmKpGY-AN3vzDCarMtxr2o_4jLoN6b8O/view?usp=drivesdk "UTS") | [Program](https://github.com/dwiandina08-oss/wisata_app "Template laporan") |
 |  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](- ) | [Program](-) |
 |  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](-) | [Program](-) |
